@@ -1,0 +1,1 @@
+- Will pull request have a merge conflict if the commits on master is ahead of pull request's commits? (master has updated commits while PR branch is behind master)
